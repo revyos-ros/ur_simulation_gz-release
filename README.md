@@ -1,3 +1,26 @@
+## ur_simulation_gz (humble) - 0.1.1-2
+
+The packages in the `ur_simulation_gz` repository were released into the `humble` distro by running `/root/venv/bin/bloom-release -r humble ur_simulation_gz --override-release-repository-push-url git@github.com:revyos-ros/ur_simulation_gz-release.git` on `Tue, 04 Mar 2025 09:36:36 -0000`
+
+The `ur_simulation_gz` package was released.
+
+Version of package(s) in repository `ur_simulation_gz`:
+
+- upstream repository: https://github.com/UniversalRobots/Universal_Robots_ROS2_GZ_Simulation.git
+- release repository: https://github.com/revyos-ros/ur_simulation_gz-release.git
+- rosdistro version: `0.1.1-2`
+- old version: `0.1.1-1`
+- new version: `0.1.1-2`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.25.1`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## ur_simulation_gz (humble) - 0.1.1-1
 
 The packages in the `ur_simulation_gz` repository were released into the `humble` distro by running `/root/venv/bin/bloom-release -r humble ur_simulation_gz --override-release-repository-push-url git@github.com:revyos-ros/ur_simulation_gz-release.git` on `Tue, 04 Mar 2025 09:18:19 -0000`
