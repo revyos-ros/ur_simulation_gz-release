@@ -1,3 +1,26 @@
+## ur_simulation_gz (jazzy) - 2.3.0-2
+
+The packages in the `ur_simulation_gz` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy ur_simulation_gz --override-release-repository-push-url git@github.com:revyos-ros/ur_simulation_gz-release.git` on `Mon, 23 Jun 2025 05:36:04 -0000`
+
+The `ur_simulation_gz` package was released.
+
+Version of package(s) in repository `ur_simulation_gz`:
+
+- upstream repository: https://github.com/UniversalRobots/Universal_Robots_ROS2_GZ_Simulation.git
+- release repository: https://github.com/revyos-ros/ur_simulation_gz-release.git
+- rosdistro version: `2.3.0-2`
+- old version: `2.3.0-1`
+- new version: `2.3.0-2`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## ur_simulation_gz (jazzy) - 2.3.0-1
 
 The packages in the `ur_simulation_gz` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy ur_simulation_gz --override-release-repository-push-url git@github.com:revyos-ros/ur_simulation_gz-release.git` on `Mon, 23 Jun 2025 05:34:06 -0000`
